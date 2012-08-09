@@ -1,0 +1,1875 @@
+﻿<Level>
+	<Number>6</Number>
+	
+	<Title>HARD PORTAL</Title>
+	
+	<Paths>
+		
+		// LEFT PATH
+		<path num="0">		
+			<y>-69.25</y>
+			<x>219.85</x>
+
+			<y>-58.95</y>
+			<x>210.1</x>
+
+			<y>21.3</y>
+			<x>191.7</x>
+
+			<y>67.7</y>
+			<x>181.1</x>
+
+			<y>93.3</y>
+			<x>189.45</x>
+
+			<y>126.65</y>
+			<x>208.45</x>
+
+			<y>159.35</y>
+			<x>225.75</x>
+
+			<y>195.5</y>
+			<x>250.55</x>
+
+			<y>222.2</y>
+			<x>256.2</x>
+
+			<y>251.75</y>
+			<x>250.55</x>
+
+			<y>285.7</y>
+			<x>242.7</x>
+
+			<y>323.6</y>
+			<x>223.5</x>
+
+			<y>364.15</y>
+			<x>195.1</x>
+
+			<y>405.1</y>
+			<x>174.15</x>
+
+			<y>438.45</y>
+			<x>144.4</x>
+
+			<y>466.45</y>
+			<x>128.5</x>
+
+			<y>499.45</y>
+			<x>123.55</x>
+
+			<y>521.45</y>
+			<x>122.55</x>
+
+			
+		</path>
+		
+		// LEFT 1
+		<path num="1">		
+			<y>-69.25</y>
+			<x>219.85</x>
+
+			<y>-58.95</y>
+			<x>210.1</x>
+
+			<y>21.3</y>
+			<x>191.7</x>
+
+			<y>67.7</y>
+			<x>181.1</x>
+
+			<y>93.3</y>
+			<x>189.45</x>
+
+			<y>126.65</y>
+			<x>208.45</x>
+
+			<y>159.35</y>
+			<x>225.75</x>
+
+			<y>195.5</y>
+			<x>250.55</x>
+
+			<y>222.2</y>
+			<x>256.2</x>
+
+			<y>251.75</y>
+			<x>250.55</x>
+
+			<y>285.7</y>
+			<x>242.7</x>
+
+			<y>323.6</y>
+			<x>223.5</x>
+
+			<y>364.15</y>
+			<x>195.1</x>
+
+			<y>405.1</y>
+			<x>174.15</x>
+
+			<y>438.45</y>
+			<x>144.4</x>
+
+			<y>466.45</y>
+			<x>128.5</x>
+
+			<y>499.45</y>
+			<x>123.55</x>
+
+			<y>521.45</y>
+			<x>122.55</x>
+
+			
+		</path>
+		
+		// RIGHT 2
+		<path num="2">		
+			<y>-86.25</y>
+			<x>519.8</x>
+
+			<y>-64.95</y>
+			<x>513.05</x>
+
+			<y>10.3</y>
+			<x>490.65</x>
+
+			<y>45.7</y>
+			<x>445.05</x>
+
+			<y>79.3</y>
+			<x>396.4</x>
+
+			<y>110.65</y>
+			<x>353.4</x>
+
+			<y>151.35</y>
+			<x>319.7</x>
+
+			<y>185.5</y>
+			<x>311.5</x>
+
+			<y>213.2</y>
+			<x>310.15</x>
+
+			<y>239.75</y>
+			<x>318.5</x>
+
+			<y>259.7</y>
+			<x>341.65</x>
+
+			<y>266.65</y>
+			<x>383.45</x>
+
+			<y>272.2</y>
+			<x>433.05</x>
+
+			<y>272.15</y>
+			<x>471.1</x>
+
+			<y>308.45</y>
+			<x>521.4</x>
+
+			<y>335.45</y>
+			<x>539.45</x>
+
+			<y>377.45</y>
+			<x>558.5</x>
+
+			<y>409.45</y>
+			<x>565.5</x>
+
+			<y>451.4</y>
+			<x>568.5</x>
+
+			<y>486.4</y>
+			<x>567.45</x>
+
+			<y>529.45</y>
+			<x>573.45</x>
+
+		</path>			
+		
+		// RIGHT 3
+		<path num="3">		
+			<y>-86.25</y>
+			<x>519.8</x>
+
+			<y>-64.95</y>
+			<x>513.05</x>
+
+			<y>10.3</y>
+			<x>490.65</x>
+
+			<y>45.7</y>
+			<x>445.05</x>
+
+			<y>79.3</y>
+			<x>396.4</x>
+
+			<y>110.65</y>
+			<x>353.4</x>
+
+			<y>151.35</y>
+			<x>319.7</x>
+
+			<y>185.5</y>
+			<x>311.5</x>
+
+			<y>213.2</y>
+			<x>310.15</x>
+
+			<y>239.75</y>
+			<x>318.5</x>
+
+			<y>259.7</y>
+			<x>341.65</x>
+
+			<y>266.65</y>
+			<x>383.45</x>
+
+			<y>272.2</y>
+			<x>433.05</x>
+
+			<y>272.15</y>
+			<x>471.1</x>
+
+			<y>308.45</y>
+			<x>521.4</x>
+
+			<y>335.45</y>
+			<x>539.45</x>
+
+			<y>377.45</y>
+			<x>558.5</x>
+
+			<y>409.45</y>
+			<x>565.5</x>
+
+			<y>451.4</y>
+			<x>568.5</x>
+
+			<y>486.4</y>
+			<x>567.45</x>
+
+			<y>529.45</y>
+			<x>573.45</x>
+
+		</path>			
+		
+		
+		
+		// AIRPLANE ORANGE
+		<path num="2">	
+			<y>-111.85</y>
+			<x>35.3</x>
+
+			<y>-83.85</y>
+			<x>36.4</x>
+
+			<y>18</y>
+			<x>63.8</x>
+
+			<y>91</y>
+			<x>92.85</x>
+
+			<y>165.05</y>
+			<x>126.8</x>
+
+			<y>255.5</y>
+			<x>167.85</x>
+
+			<y>321.4</y>
+			<x>196.95</x>
+
+			<y>379.45</y>
+			<x>238</x>
+
+			<y>422.4</y>
+			<x>282.95</x>
+
+			<y>470.3</y>
+			<x>339</x>
+
+			<y>500.25</y>
+			<x>396</x>
+
+			<y>514.25</y>
+			<x>454.1</x>
+		</path>		
+		
+		// AIRPLANE YELLOW
+		<path num="3">	
+			<y>-83.85</y>
+			<x>554.95</x>
+
+			<y>-55.85</y>
+			<x>553.85</x>
+
+			<y>46</y>
+			<x>526.3</x>
+
+			<y>119</y>
+			<x>497.15</x>
+
+			<y>193.05</y>
+			<x>463.05</x>
+
+			<y>259.5</y>
+			<x>423.8</x>
+
+			<y>315.45</y>
+			<x>362.65</x>
+
+			<y>353.45</y>
+			<x>301.35</x>
+
+			<y>398.4</y>
+			<x>232.25</x>
+
+			<y>426.3</y>
+			<x>149.95</x>
+
+			<y>460.25</y>
+			<x>56.75</x>
+
+			<y>490.2</y>
+			<x>-57.6</x>
+		</path>		
+			
+		// HELO CURVE
+		<path num="3">	
+			<y>230.45</y>
+			<x>777.65</x>
+
+			<y>247.25</y>
+			<x>755.3</x>
+
+			<y>290.4</y>
+			<x>659.3</x>
+
+			<y>314.15</y>
+			<x>584.6</x>
+
+			<y>334.7</y>
+			<x>505.8</x>
+
+			<y>346.45</y>
+			<x>429.75</x>
+
+			<y>334.65</y>
+			<x>347.8</x>
+
+			<y>311.35</y>
+			<x>279.8</x>
+
+			<y>286.5</y>
+			<x>201.35</x>
+
+			<y>240.6</y>
+			<x>127.75</x>
+
+			<y>190.2</y>
+			<x>42.55</x>
+
+			<y>123.85</y>
+			<x>-94.3</x>
+
+		</path>		
+			
+		// HELO STRAIGHT
+		<path num="4">	
+			<y>227.75</y>
+			<x>800.8</x>
+
+			<y>211.05</y>
+			<x>779.05</x>
+
+			<y>148.3</y>
+			<x>691.65</x>
+
+			<y>106.7</y>
+			<x>609.05</x>
+
+			<y>82.3</y>
+			<x>530.4</x>
+
+			<y>76.65</y>
+			<x>440.4</x>
+
+			<y>96.35</y>
+			<x>344.7</x>
+
+			<y>123.5</y>
+			<x>262.55</x>
+
+			<y>184.2</y>
+			<x>194.2</x>
+
+			<y>255.75</y>
+			<x>134.55</x>
+
+			<y>367.7</y>
+			<x>63.7</x>
+
+			<y>513.6</y>
+			<x>-17.5</x>
+		</path>		
+		
+		
+		// LEFT 8
+		<path num="8">		
+			<y>-69.25</y>
+			<x>219.85</x>
+
+			<y>-58.95</y>
+			<x>210.1</x>
+
+			<y>21.3</y>
+			<x>191.7</x>
+
+			<y>67.7</y>
+			<x>181.1</x>
+
+			<y>93.3</y>
+			<x>189.45</x>
+
+			<y>126.65</y>
+			<x>208.45</x>
+
+			<y>159.35</y>
+			<x>225.75</x>
+
+			<y>195.5</y>
+			<x>250.55</x>
+
+			<y>222.2</y>
+			<x>256.2</x>
+
+			<y>251.75</y>
+			<x>250.55</x>
+
+			<y>285.7</y>
+			<x>242.7</x>
+
+			<y>323.6</y>
+			<x>223.5</x>
+
+			<y>364.15</y>
+			<x>195.1</x>
+
+			<y>405.1</y>
+			<x>174.15</x>
+
+			<y>438.45</y>
+			<x>144.4</x>
+
+			<y>466.45</y>
+			<x>128.5</x>
+
+			<y>499.45</y>
+			<x>123.55</x>
+
+			<y>521.45</y>
+			<x>122.55</x>
+
+			
+		</path>
+		
+		// RIGHT 9
+		<path num="9">		
+			<y>-86.25</y>
+			<x>519.8</x>
+
+			<y>-64.95</y>
+			<x>513.05</x>
+
+			<y>10.3</y>
+			<x>490.65</x>
+
+			<y>45.7</y>
+			<x>445.05</x>
+
+			<y>79.3</y>
+			<x>396.4</x>
+
+			<y>110.65</y>
+			<x>353.4</x>
+
+			<y>151.35</y>
+			<x>319.7</x>
+
+			<y>185.5</y>
+			<x>311.5</x>
+
+			<y>213.2</y>
+			<x>310.15</x>
+
+			<y>239.75</y>
+			<x>318.5</x>
+
+			<y>259.7</y>
+			<x>341.65</x>
+
+			<y>266.65</y>
+			<x>383.45</x>
+
+			<y>272.2</y>
+			<x>433.05</x>
+
+			<y>272.15</y>
+			<x>471.1</x>
+
+			<y>308.45</y>
+			<x>521.4</x>
+
+			<y>335.45</y>
+			<x>539.45</x>
+
+			<y>377.45</y>
+			<x>558.5</x>
+
+			<y>409.45</y>
+			<x>565.5</x>
+
+			<y>451.4</y>
+			<x>568.5</x>
+
+			<y>486.4</y>
+			<x>567.45</x>
+
+			<y>529.45</y>
+			<x>573.45</x>
+
+		</path>		
+		
+		// LEFT 10
+		<path num="10">		
+			<y>-69.25</y>
+			<x>219.85</x>
+
+			<y>-58.95</y>
+			<x>210.1</x>
+
+			<y>21.3</y>
+			<x>191.7</x>
+
+			<y>67.7</y>
+			<x>181.1</x>
+
+			<y>93.3</y>
+			<x>189.45</x>
+
+			<y>126.65</y>
+			<x>208.45</x>
+
+			<y>159.35</y>
+			<x>225.75</x>
+
+			<y>195.5</y>
+			<x>250.55</x>
+
+			<y>222.2</y>
+			<x>256.2</x>
+
+			<y>251.75</y>
+			<x>250.55</x>
+
+			<y>285.7</y>
+			<x>242.7</x>
+
+			<y>323.6</y>
+			<x>223.5</x>
+
+			<y>364.15</y>
+			<x>195.1</x>
+
+			<y>405.1</y>
+			<x>174.15</x>
+
+			<y>438.45</y>
+			<x>144.4</x>
+
+			<y>466.45</y>
+			<x>128.5</x>
+
+			<y>499.45</y>
+			<x>123.55</x>
+
+			<y>521.45</y>
+			<x>122.55</x>
+
+			
+		</path>
+		
+		// RIGHT 11
+		<path num="11">		
+			<y>-86.25</y>
+			<x>519.8</x>
+
+			<y>-64.95</y>
+			<x>513.05</x>
+
+			<y>10.3</y>
+			<x>490.65</x>
+
+			<y>45.7</y>
+			<x>445.05</x>
+
+			<y>79.3</y>
+			<x>396.4</x>
+
+			<y>110.65</y>
+			<x>353.4</x>
+
+			<y>151.35</y>
+			<x>319.7</x>
+
+			<y>185.5</y>
+			<x>311.5</x>
+
+			<y>213.2</y>
+			<x>310.15</x>
+
+			<y>239.75</y>
+			<x>318.5</x>
+
+			<y>259.7</y>
+			<x>341.65</x>
+
+			<y>266.65</y>
+			<x>383.45</x>
+
+			<y>272.2</y>
+			<x>433.05</x>
+
+			<y>272.15</y>
+			<x>471.1</x>
+
+			<y>308.45</y>
+			<x>521.4</x>
+
+			<y>335.45</y>
+			<x>539.45</x>
+
+			<y>377.45</y>
+			<x>558.5</x>
+
+			<y>409.45</y>
+			<x>565.5</x>
+
+			<y>451.4</y>
+			<x>568.5</x>
+
+			<y>486.4</y>
+			<x>567.45</x>
+
+			<y>529.45</y>
+			<x>573.45</x>
+
+		</path>			
+		
+		
+	</Paths>
+	
+	<Waves>
+		
+		<wave num="0">	
+			
+			// NORTH PATH
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH PATH
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>10</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+		</wave>	
+		
+		
+		<wave num="1">	
+			
+			// NORTH PATH
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>6</amount>				
+				<route>1</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+		
+			// SOUTH PATH
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>10</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH
+			
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>6</amount>				
+				<route>3</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+		</wave>	
+		
+		<wave num="2">	// HELO - - M113
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>10</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE ORANGE 4
+			
+			
+			// AIRPLANE YELLOW 5
+			
+			
+			// HELO CURVE 6 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>3</amount>				
+				<route>6</route>
+				<timer>2800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+			// HELO STRAIGHT 7 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>3</amount>				
+				<route>7</route>
+				<timer>2800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+		</wave>	
+		
+		<wave num="3">	// PLANE - - harder m113
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>12</amount>				
+				<route>0</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>700</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>7</amount>				
+				<route>1</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>13</amount>				
+				<route>2</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>700</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 3
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>7</amount>				
+				<route>3</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE ORANGE 4
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>3</amount>				
+				<route>4</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE YELLOW 5
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>3</amount>				
+				<route>5</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+		</wave>	
+		
+		<wave num="4">	
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>7</amount>				
+				<route>1</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>10</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 3
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>7</amount>				
+				<route>3</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE ORANGE 4
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>4</amount>				
+				<route>4</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE YELLOW 5
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>4</amount>				
+				<route>5</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+		
+		
+			// HELO CURVE 6 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>4</amount>				
+				<route>6</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+			// HELO STRAIGHT 7 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>4</amount>				
+				<route>7</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+		
+		</wave>
+		
+		<wave num="5">	// LONGER  , shorter times
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>14</amount>				
+				<route>0</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>1</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>14</amount>				
+				<route>2</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 3
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>3</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE ORANGE 4
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>7</amount>				
+				<route>4</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE YELLOW 5
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>7</amount>				
+				<route>5</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+		
+		
+			// HELO CURVE 6 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>7</amount>				
+				<route>6</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+			// HELO STRAIGHT 7 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>7</amount>				
+				<route>7</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+		
+		</wave>
+		
+		<wave num="6">	// ALL PATHS -- ARM BUS, 1 PLANE  shorter times
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>11</amount>				
+				<route>0</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>1</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 8
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>8</amount>				
+				<route>8</route>
+				<timer>2700</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>11</amount>				
+				<route>2</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 3
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>3</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 9
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>8</amount>				
+				<route>9</route>
+				<timer>2900</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE ORANGE 4
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>1</amount>				
+				<route>4</route>
+				<timer>10000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE YELLOW 5
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>1</amount>				
+				<route>5</route>
+				<timer>15000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+		
+		
+			// HELO CURVE 6 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>4</amount>				
+				<route>6</route>
+				<timer>2800</timer>
+				<color>NONE</color>
+				
+				<speed>2.1</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+			// HELO STRAIGHT 7 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>4</amount>				
+				<route>7</route>
+				<timer>2800</timer>
+				<color>NONE</color>
+				
+				<speed>2.1</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+		
+		</wave>
+		
+		<wave num="7">	// ALL PATHS -- ARM BUS, SCH, CIT 3 PLANE
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>14</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>1</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 8
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>8</amount>				
+				<route>8</route>
+				<timer>2900</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 10
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>10</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>10</amount>				
+				<route>10</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>340</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>14</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 3
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>3</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 9
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>8</amount>				
+				<route>9</route>
+				<timer>2900</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 11
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>11</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>10</amount>				
+				<route>11</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>340</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE ORANGE 4
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>3</amount>				
+				<route>4</route>
+				<timer>7000</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE YELLOW 5
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>3</amount>				
+				<route>5</route>
+				<timer>8000</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+		
+		
+			// HELO CURVE 6 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>4</amount>				
+				<route>6</route>
+				<timer>3100</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+			// HELO STRAIGHT 7 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>3</amount>				
+				<route>7</route>
+				<timer>3200</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+		
+		</wave>
+		
+		<wave num="8">	// ALL PATHS -- ALL CARS  10 PLANE
+			
+			// NORTH PATH 0
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>14</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 1
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>1</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 8
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>8</amount>				
+				<route>8</route>
+				<timer>2900</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// NORTH 10
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>10</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>10</amount>				
+				<route>10</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>340</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>5</amount>				
+				<route>10</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>10</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>5</amount>				
+				<route>10</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>5</amount>				
+				<route>10</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+			// SOUTH PATH 2
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>14</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 3
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>12</amount>				
+				<route>3</route>
+				<timer>2200</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 9
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>8</amount>				
+				<route>9</route>
+				<timer>2900</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// SOUTH 11
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>11</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>10</amount>				
+				<route>11</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>340</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>5</amount>				
+				<route>11</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>11</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>5</amount>				
+				<route>11</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>5</amount>				
+				<route>11</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			// AIRPLANE ORANGE 4
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>10</amount>				
+				<route>4</route>
+				<timer>4000</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// AIRPLANE YELLOW 5
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>10</amount>				
+				<route>5</route>
+				<timer>3700</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+		
+		
+			// HELO CURVE 6 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>12</amount>				
+				<route>6</route>
+				<timer>2400</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+			
+			// HELO STRAIGHT 7 
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>12</amount>				
+				<route>7</route>
+				<timer>2400</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+		
+		</wave>
+		
+		
+	</Waves>
+	
+	<Towers>
+		
+	</Towers>
+	
+	<Money>600</Money>
+	
+	<Furniture>
+		
+	</Furniture>
+	
+</Level>

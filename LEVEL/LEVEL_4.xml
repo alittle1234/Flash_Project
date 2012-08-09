@@ -1,0 +1,1094 @@
+﻿<Level>
+	<Number>1</Number>
+	
+	<Title>EASY SUBURBS</Title>
+	
+	<Paths>
+		<path num="0">	
+			<y>-61.55</y>
+			<x>543.4</x>
+
+			<y>-51.55</y>
+			<x>538.4</x>
+
+			<y>4.45</y>
+			<x>507.4</x>
+
+			<y>109.45</y>
+			<x>446.4</x>
+
+			<y>132.45</y>
+			<x>428.4</x>
+
+			<y>146.5</y>
+			<x>414.95</x>
+
+			<y>145.5</y>
+			<x>387.95</x>
+
+			<y>131.5</y>
+			<x>350</x>
+
+			<y>20.5</y>
+			<x>183.05</x>
+
+			<y>10.5</y>
+			<x>159.05</x>
+
+			<y>17.5</y>
+			<x>140</x>
+
+			<y>114.5</y>
+			<x>36</x>
+
+			<y>134.5</y>
+			<x>24</x>
+
+			<y>154.45</y>
+			<x>39</x>
+
+			<y>198.45</y>
+			<x>84</x>
+
+			<y>221.45</y>
+			<x>169</x>
+
+			<y>239.45</y>
+			<x>205.05</x>
+
+			<y>275.45</y>
+			<x>240</x>
+
+			<y>312.45</y>
+			<x>260</x>
+
+			<y>349.45</y>
+			<x>327.95</x>
+
+			<y>343.5</y>
+			<x>368.95</x>
+
+			<y>314.5</y>
+			<x>409.95</x>
+
+			<y>283.45</y>
+			<x>425.95</x>
+
+			<y>255.45</y>
+			<x>390</x>
+
+			<y>193.45</y>
+			<x>357</x>
+
+			<y>206.5</y>
+			<x>328.95</x>
+
+			<y>259.5</y>
+			<x>275</x>
+
+			<y>314.45</y>
+			<x>194.95</x>
+
+			<y>325.45</y>
+			<x>159.95</x>
+
+			<y>341.45</y>
+			<x>67.95</x>
+
+			<y>339.45</y>
+			<x>-3.05</x>
+
+			<y>336.45</y>
+			<x>-40.05</x>
+		</path>
+		
+		
+		<path num="1">	
+			<y>-61.55</y>
+			<x>543.4</x>
+
+			<y>-51.55</y>
+			<x>538.4</x>
+
+			<y>32.45</y>
+			<x>495.4</x>
+
+			<y>124.45</y>
+			<x>443.4</x>
+
+			<y>160.45</y>
+			<x>406.4</x>
+
+			<y>190.5</y>
+			<x>358.95</x>
+
+			<y>233.5</y>
+			<x>376.95</x>
+
+			<y>262.5</y>
+			<x>406.05</x>
+
+			<y>285.5</y>
+			<x>436</x>
+
+			<y>285.5</y>
+			<x>499</x>
+
+			<y>271.5</y>
+			<x>545.95</x>
+
+			<y>269.5</y>
+			<x>566.95</x>
+
+			<y>309.5</y>
+			<x>590.95</x>
+
+			<y>336.45</y>
+			<x>599.95</x>
+
+			<y>355.4</y>
+			<x>573.95</x>
+
+			<y>380.4</y>
+			<x>493.95</x>
+
+			<y>384.4</y>
+			<x>412</x>
+
+			<y>391.4</y>
+			<x>353.95</x>
+
+			<y>394.4</y>
+			<x>297.95</x>
+
+			<y>396.4</y>
+			<x>221</x>
+
+			<y>392.45</y>
+			<x>191</x>
+
+			<y>351.45</y>
+			<x>171</x>
+
+			<y>326.45</y>
+			<x>164</x>
+
+			<y>334.45</y>
+			<x>111.05</x>
+
+			<y>341.4</y>
+			<x>63.05</x>
+
+			<y>337.45</y>
+			<x>-3</x>
+
+			<y>332.5</y>
+			<x>-44.95</x>
+		</path>		
+		
+		
+		<path num="2">	
+			<y>-61.55</y>
+			<x>543.4</x>
+
+			<y>-51.55</y>
+			<x>538.4</x>
+
+			<y>32.45</y>
+			<x>495.4</x>
+
+			<y>124.45</y>
+			<x>443.4</x>
+
+			<y>160.45</y>
+			<x>496.4</x>
+
+			<y>206.5</y>
+			<x>538.95</x>
+
+			<y>263.5</y>
+			<x>564.95</x>
+
+			<y>283.5</y>
+			<x>505.05</x>
+
+			<y>279.5</y>
+			<x>436</x>
+
+			<y>263.5</y>
+			<x>404</x>
+
+			<y>229.5</y>
+			<x>370.95</x>
+
+			<y>191.5</y>
+			<x>356.95</x>
+
+			<y>210.5</y>
+			<x>325.95</x>
+
+			<y>261.45</y>
+			<x>272.95</x>
+
+			<y>301.4</y>
+			<x>234</x>
+
+			<y>316.4</y>
+			<x>196</x>
+
+			<y>334.45</y>
+			<x>114.05</x>
+
+			<y>340.4</y>
+			<x>58</x>
+
+			<y>340.4</y>
+			<x>-6</x>
+
+			<y>329.4</y>
+			<x>-44</x>
+		</path>	
+		
+	</Paths>
+	
+	<Waves>
+		
+		<wave num="0">	
+			<!-- ROUTE 1 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>4000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!-- ROUTE 2 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>1</route>
+				<timer>4000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!-- ROUTE 3 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>2</route>
+				<timer>4000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			
+		</wave>
+		
+			
+		<wave num="1">	
+			
+			<!-- ROUTE 1 -->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			<!-- ROUTE 2 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!-- ROUTE 3 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			
+		</wave>
+		
+		<wave num="2">	
+			
+			<!-- ROUTE 1 -->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			<!-- ROUTE 2 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!-- ROUTE 3 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			
+		</wave>
+		
+		<wave num="3">	
+			
+			<!-- ROUTE 1 -->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>2</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			
+			<!-- ROUTE 2 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>				
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			
+			<!-- ROUTE 3 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>2</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+		</wave>
+		
+		<wave num="4">	
+			
+			<!-- ROUTE 1 -->
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>12</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			
+			<!-- ROUTE 2 -->
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>11</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>				
+			
+			
+			<!-- ROUTE 3 -->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>11</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+
+			
+		</wave>
+		
+		<wave num="5">	
+			
+			//<!-- ROUTE 1 -->
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			
+			//<!-- ROUTE 2 -->
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>600</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>3</amount>				
+				<route>1</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			
+			//<!-- ROUTE 3 -->
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>1100</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>4</amount>				
+				<route>2</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			
+		</wave>
+		
+		<wave num="6">	
+			
+			//<!-- ROUTE 1 -->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>5000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>190</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			//<!-- ROUTE 2-->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>11</amount>				
+				<route>1</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			//<!-- ROUTE 3-->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>3500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>10</amount>				
+				<route>2</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>5000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>190</health>
+				<attack>10</attack>
+			</enemy>	
+			
+		</wave>
+		
+		<wave num="7">	
+			
+			//<!-- ROUTE 1 -->
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>6</amount>				
+				<route>0</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>				
+			
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>6</amount>				
+				<route>0</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>6</amount>				
+				<route>0</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>5000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>190</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			//<!-- ROUTE 2-->
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>6</amount>				
+				<route>1</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>6</amount>				
+				<route>1</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>				
+			
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>6</amount>				
+				<route>1</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>5000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>190</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			//<!-- ROUTE 3-->
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>1</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			
+			//<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>6</amount>				
+				<route>2</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>6</amount>				
+				<route>2</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>6</amount>				
+				<route>2</route>
+				<timer>4500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>2</amount>				
+				<route>2</route>
+				<timer>5000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>190</health>
+				<attack>10</attack>
+			</enemy>	
+			
+		</wave>
+		
+		
+		
+	</Waves>
+	
+	<Towers>
+		<!--<twr>
+			<type>tSmoke_tower</type>			
+			<speed>10000</speed>
+			<level>0</level>			
+			<health>100</health>
+			<attack>0</attack>
+			<range>80</range>
+			<color>NONE</color>
+			<y>200</y>
+			<x>350</x>
+		</twr>
+		<twr>
+			<type>tRouge_tower</type>
+			<speed>1000</speed>
+			<level>0</level>			
+			<health>20</health>
+			<attack>0</attack>
+			<range>80</range>
+			<color>NONE</color>
+			<y>150</y>
+			<x>220</x>
+		</twr>-->
+	</Towers>
+	
+	<Money>300</Money>
+	
+	<Furniture>
+		<!--<f>
+			<name>fMapleNormalMC</name>
+			<y>200</y>
+			<x>50</x>
+		</f>
+		<f>
+			<name>fMapleNormalMC</name>
+			<y>230</y>
+			<x>140</x>
+		</f>
+		<f>
+			<name>fMapleNormalMC</name>
+			<y>130</y>
+			<x>230</x>
+		</f>
+		<f>
+			<name>fMapleNormalMC</name>
+			<y>320</y>
+			<x>300</x>
+		</f>-->
+	</Furniture>
+	
+</Level>

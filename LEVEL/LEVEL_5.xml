@@ -1,0 +1,1136 @@
+﻿<Level>
+	<Number>5</Number>
+	
+	<Title>MEDIUM FOREST</Title>
+	
+	<Paths>
+		
+		<path num="0">		
+			<y>392.7</y>
+			<x>-75.75</x>
+
+			<y>389.65</y>
+			<x>-67.2</x>
+
+			<y>345.05</y>
+			<x>32.6</x>
+
+			<y>290.5</y>
+			<x>128.85</x>
+
+			<y>278.9</y>
+			<x>190.6</x>
+
+			<y>273.5</y>
+			<x>248.9</x>
+
+			<y>280.65</y>
+			<x>305.05</x>
+
+			<y>269.3</y>
+			<x>356.8</x>
+
+			<y>250.95</y>
+			<x>396.5</x>
+
+			<y>228.85</y>
+			<x>420.65</x>
+
+			<y>190.7</y>
+			<x>467.05</x>
+
+			<y>150.85</y>
+			<x>521.1</x>
+
+			<y>112.3</y>
+			<x>574.2</x>
+
+			<y>103.05</y>
+			<x>625.45</x>
+
+			<y>99.65</y>
+			<x>692.2</x>
+
+			
+		</path>
+		
+		<path num="1">		
+			<y>556.3</y>
+			<x>251.55</x>
+
+			<y>540.5</y>
+			<x>245.2</x>
+
+			<y>437.3</y>
+			<x>209.1</x>
+
+			<y>323.35</y>
+			<x>168</x>
+
+			<y>279.45</y>
+			<x>161.9</x>
+
+			<y>222.05</y>
+			<x>159.8</x>
+
+			<y>187.1</y>
+			<x>179.75</x>
+
+			<y>159.35</y>
+			<x>212.25</x>
+
+			<y>153.55</y>
+			<x>247.45</x>
+
+			<y>147.45</y>
+			<x>286.8</x>
+
+			<y>129.2</y>
+			<x>311.15</x>
+
+			<y>97.05</y>
+			<x>344.75</x>
+
+			<y>55.15</y>
+			<x>383.6</x>
+
+			<y>0.35</y>
+			<x>419.15</x>
+
+			<y>-44.65</y>
+			<x>454.3</x>
+
+
+
+		</path>			
+		
+		<path num="2">		
+			<y>392.7</y>
+			<x>-75.75</x>
+
+			<y>389.65</y>
+			<x>-67.2</x>
+
+			<y>345.05</y>
+			<x>32.6</x>
+
+			<y>290.5</y>
+			<x>128.85</x>
+
+			<y>278.9</y>
+			<x>190.6</x>
+
+			<y>273.5</y>
+			<x>248.9</x>
+
+			<y>280.65</y>
+			<x>305.05</x>
+
+			<y>269.3</y>
+			<x>356.8</x>
+
+			<y>250.95</y>
+			<x>396.5</x>
+
+			<y>228.85</y>
+			<x>420.65</x>
+
+			<y>190.7</y>
+			<x>467.05</x>
+
+			<y>150.85</y>
+			<x>521.1</x>
+
+			<y>112.3</y>
+			<x>574.2</x>
+
+			<y>103.05</y>
+			<x>625.45</x>
+
+			<y>99.65</y>
+			<x>692.2</x>
+
+			
+		</path>
+		
+		
+		<path num="3">		
+			<y>556.3</y>
+			<x>251.55</x>
+
+			<y>540.5</y>
+			<x>245.2</x>
+
+			<y>437.3</y>
+			<x>209.1</x>
+
+			<y>323.35</y>
+			<x>168</x>
+
+			<y>279.45</y>
+			<x>161.9</x>
+
+			<y>222.05</y>
+			<x>159.8</x>
+
+			<y>187.1</y>
+			<x>179.75</x>
+
+			<y>159.35</y>
+			<x>212.25</x>
+
+			<y>153.55</y>
+			<x>247.45</x>
+
+			<y>147.45</y>
+			<x>286.8</x>
+
+			<y>129.2</y>
+			<x>311.15</x>
+
+			<y>97.05</y>
+			<x>344.75</x>
+
+			<y>55.15</y>
+			<x>383.6</x>
+
+			<y>0.35</y>
+			<x>419.15</x>
+
+			<y>-44.65</y>
+			<x>454.3</x>
+
+
+
+		</path>			
+		
+	</Paths>
+	
+	<Waves>
+		
+			
+		<wave num="0">	
+			
+			// ROUTE 0
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>220</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>220</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>220</health>
+				<attack>10</attack>
+			</enemy>	
+			
+		</wave>	
+		
+		<wave num="1">	
+			
+			// ROUTE 0
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+		</wave>	
+		
+		<wave num="2">	
+			
+			// ROUTE 0
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 2
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>4000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>10</amount>				
+				<route>2</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>185</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			
+		</wave>	
+		
+		<wave num="3">	
+			
+			// ROUTE 0
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>9</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>2400</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>320</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			// ROUTE 2
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>6</amount>				
+				<route>2</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>155</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>6</amount>				
+				<route>2</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>175</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>6</amount>				
+				<route>2</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>185</health>
+				<attack>0</attack>
+			</enemy>	
+			
+		</wave>
+		
+		<wave num="4">	
+			
+			// ROUTE 0
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>9</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>3</amount>				
+				<route>1</route>
+				<timer>1000</timer>
+				<color>NONE</color>
+				
+				<speed>2</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>20</amount>				
+				<route>1</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>325</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+		</wave>	
+		
+		<wave num="5">	
+			
+			// ROUTE 0
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>600</timer>
+				<color>NONE</color>
+				
+				<speed>1</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>2100</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>395</health>
+				<attack>10</attack>
+			</enemy>	
+		
+			
+		</wave>	
+		
+		<wave num="6">	
+			
+			// ROUTE 0
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 2
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>10</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>290</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>1300</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>				
+			
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>395</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 3
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>5</amount>				
+				<route>3</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>3</route>
+				<timer>2500</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+		</wave>	
+		
+		<wave num="7">	
+			
+			// ROUTE 1
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>10</amount>				
+				<route>1</route>
+				<timer>1600</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>395</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>2</amount>				
+				<route>1</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>20</amount>				
+				<route>1</route>
+				<timer>1830</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2010</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>1</amount>				
+				<route>1</route>
+				<timer>3000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>478</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 0
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>3</amount>				
+				<route>1</route>
+				<timer>3000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>478</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 2
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>4</amount>				
+				<route>2</route>
+				<timer>1200</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>3</amount>				
+				<route>2</route>
+				<timer>1200</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+				
+			
+			
+			
+		</wave>	
+		
+		<wave num="8">	
+			
+			// ROUTE 0
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>11</amount>				
+				<route>0</route>
+				<timer>3000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 2
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>2</amount>				
+				<route>2</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>5</amount>				
+				<route>2</route>
+				<timer>3030</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>2</route>
+				<timer>2800</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>5</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>478</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>2</amount>				
+				<route>1</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			// ROUTE 3
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>5</amount>				
+				<route>3</route>
+				<timer>3030</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>5</amount>				
+				<route>3</route>
+				<timer>2800</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			
+		</wave>	
+		
+		<wave num="9">	
+			
+			// ROUTE 0
+			
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>1500</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>1400</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>5</amount>				
+				<route>0</route>
+				<timer>1200</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>3</amount>				
+				<route>0</route>
+				<timer>1400</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 2
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>5</amount>				
+				<route>2</route>
+				<timer>1800</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>3</amount>				
+				<route>2</route>
+				<timer>2030</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>330</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>3</amount>				
+				<route>2</route>
+				<timer>1900</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>3</amount>				
+				<route>2</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			// ROUTE 1
+			!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>15</amount>				
+				<route>1</route>
+				<timer>2100</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>425</health>
+				<attack>10</attack>
+			</enemy>
+			// ROUTE 3
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>8</amount>				
+				<route>3</route>
+				<timer>3950</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>1</amount>				
+				<route>3</route>
+				<timer>4000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+		</wave>	
+		
+		
+	</Waves>
+	
+	<Towers>
+		
+	</Towers>
+	
+	<Money>450</Money>
+	
+	<Furniture>
+		
+	</Furniture>
+	
+</Level>

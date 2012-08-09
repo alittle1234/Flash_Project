@@ -1,0 +1,151 @@
+﻿package 
+{
+			
+			<!--//e_1Compact-->
+			<enemy>
+				<type>e_1Compact</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.2</speed>
+				<health>100</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_2HatchBack-->
+			<enemy>
+				<type>e_2HatchBack</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.3</speed>
+				<health>130</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_3MiniVan-->
+			<enemy>
+				<type>e_3MiniVan</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.4</speed>
+				<health>160</health>
+				<attack>0</attack>
+			</enemy>	
+			
+			<!--//e_4SUV-->
+			<enemy>
+				<type>e_4SUV</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>275</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_5CityBus-->
+			<enemy>
+				<type>e_5CityBus</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>285</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_6SchoolBus-->
+			<enemy>
+				<type>e_6SchoolBus</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.6</speed>
+				<health>340</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_7ArmoredBus-->
+			<enemy>
+				<type>e_7ArmoredBus</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>405</health>
+				<attack>10</attack>
+			</enemy>	
+		
+			
+			
+			<!--//e_8APC-->
+			<enemy>
+				<type>e_8APC</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.5</speed>
+				<health>498</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_9M113-->
+			<enemy>
+				<type>e_9M113</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.8</speed>
+				<health>690</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			
+			
+			<!--//e_91CropDuster-->
+			<enemy>
+				<type>e_91CropDuster</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.7</speed>
+				<health>90</health>
+				<attack>10</attack>
+			</enemy>	
+			
+			<!--//e_92Hellicopter-->
+			<enemy>
+				<type>e_92Hellicopter</type>		
+				<amount>1</amount>				
+				<route>0</route>
+				<timer>2000</timer>
+				<color>NONE</color>
+				
+				<speed>1.9</speed>
+				<health>265</health>
+				<attack>10</attack>
+			</enemy>
+	
+}
